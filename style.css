@@ -1,0 +1,84 @@
+#b1 {
+  background-color: mediumseagreen;
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  font-family: sans-serif;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+ul li {
+  float: left;
+  height: 45px;
+}
+ul li a {
+  background-color: #aa33ff;
+  border: 5px solid gray;
+  color: darkorange;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+  padding: 12px 25px;
+}
+nav li a:hover {
+  background-color: ivory;
+}
+#p1 {
+  color: ivory;
+}
+#Hrana {
+  color: purple;
+  text-align: left;
+  font-size: 25px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#n4 {
+  color: #336bff;
+  font-size: 18px;
+}
+#Pica {
+  color: purple;
+  text-align: left;
+  font-size: 25px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-bottom: orangered dotted 3px;
+}
+#l2 {
+  color: white;
+}
+#b2 {
+  background-color: #33c5ff;
+}
+#n3 {
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #fff333;
+}
+#Kontakt {
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #fff333;
+}
+#l3 {
+  color: #ff33aa;
+  font-family: "Times New Roman", Times, serif;
+}
+#p2 {
+  color: white;
+}
+#b3 {
+  background-color: #33c5ff;
+}
+#s1 {
+  margin-left: 375px;
+}
+#p3 {
+  margin-left: 200px;
+  color: ivory;
+}
